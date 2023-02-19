@@ -10,3 +10,4 @@ lsa_original_lenet.py is used to measure LSA values of the testing set.
 
 generation_util_improve_other_V2.py is utilized to generate test inputs by adopting the gradient ascent algorithm.
 
+innvestigate_lenet5.py is leveraged for identifying important neurons that are key contributors to decision-making.
